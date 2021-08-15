@@ -19,11 +19,13 @@ and interests in this field of study. I have included several artifacts from cou
 key areas. While the required artifacts feature software design and engineering, algorithms and data structure, and databases, 
 there are several other aspects that are just as important. I noticed the collaboration environment is something entirely 
 different than what I was usually accustomed to. The way its distributed amongst sites such as GitHub and not directly 
-face-to-face was a new experience for me. Then there was security in which I noticed this is no longer an afterthought and 
-how every program and almost every element needs to have some type of secure structure in place. This is just the way of the 
-future and the evolution of technology that security will have to become more advance and involved to protect these networks. 
-I may have a mindset for this field as my thought process has always been comprised of being aware of my surroundings and if 
-there are any imminent dangers due to my current profession. 
+face-to-face was a new experience for me. 
+
+Then there was security in which I noticed this is no longer an afterthought and how every program and almost every element 
+needs to have some type of secure structure in place. This is just the way of the future and the evolution of technology 
+that security will have to become more advance and involved to protect these networks. I may have a mindset for this field 
+as my thought process has always been comprised of being aware of my surroundings and if there are any imminent dangers 
+due to my current profession. 
 
 The following artifacts showcase what I believe are some of the stronger areas throughout my studies. The first enhancement 
 is from my Object-Oriented Analysis and Design course and features several flowcharts about the application design and was 
