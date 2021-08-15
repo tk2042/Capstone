@@ -1,6 +1,6 @@
 # ePortfolio
 ## My Intro:
-This is a current collection of some of my work from my Computer Science program. 
+   This is a current collection of some of my work from my Computer Science program. 
 I am currently a Firefighter that is trying to transition out of Emergency Services
 and into a different type of role. The following is a self-reflection of my work 
 throughout the program with provided links above. 
