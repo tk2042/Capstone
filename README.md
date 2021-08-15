@@ -1,13 +1,13 @@
 # ePortfolio
 ## My Intro:
-      This is a current collection of some of my work from my Computer Science program. 
-      I am currently a Firefighter that is trying to transition out of Emergency Services
-      and into a different type of role. The following is a self-reflection of my work 
-      throughout the program with provided links above. 
+This is a current collection of some of my work from my Computer Science program. 
+I am currently a Firefighter that is trying to transition out of Emergency Services
+and into a different type of role. The following is a self-reflection of my work 
+throughout the program with provided links above. 
       
 ## Self-Reflection:
-      When I first began this program, I was very nervous as to what it would take from me and if I could even get through the material.
-      There were many stressful days and nights that left me second-guessing my work if it was satisfactory enough or if I could finish 
+      When I first began this program, I was very nervous as to what it would take from me and if 
+      I could even get through the material. There were many stressful days and nights that left me second-guessing my work if it was satisfactory enough or if I could finish 
       the work on time. The Computer Science program has really opened my eyes as to what goes into the development of an application. 
       There are so many moving parts and specific details that go into the design and development that I had never given any thought to 
       until this program. While the program did feel overwhelming at times, I have come away with a better core understanding of the 
