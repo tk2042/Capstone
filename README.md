@@ -31,6 +31,8 @@ something I was interested in. The second enhancement consists of a weather stat
 the hands-on development of this project and course material and is the reason for my inclusion in this portfolio. My third 
 enhancement features patterns and trends from a data mining course. I included this artifact because this was one area, I 
 really wanted to learn more about and how to utilize this data because I really enjoy organizing and arranging different elements. 
+
+
 ![image](https://user-images.githubusercontent.com/75960616/129485246-403cc0e7-5d97-49ea-96f4-decf008f9717.png)
 
 ### This a link to the code review for my second enhancement:
