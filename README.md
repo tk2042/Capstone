@@ -31,8 +31,8 @@ The following artifacts showcase what I believe are some of the stronger areas t
 is from my Object-Oriented Analysis and Design course and features several flowcharts about the application design and was 
 something I was interested in. The second enhancement consists of a weather station application using a Raspberry Pi. I enjoyed 
 the hands-on development of this project and course material and is the reason for my inclusion in this portfolio. My third 
-enhancement features patterns and trends from a data mining course. I included this artifact because this was one area, I 
-really wanted to learn more about and how to utilize this data because I really enjoy organizing and arranging different elements. 
+enhancement features patterns and trends from a data mining course. I included this artifact because this was one area that I 
+really wanted to learn more about and how to utilize this data because I really enjoy organizing and arranging the different elements. 
 
 ## Link to the code review for my second enhancement:
 https://youtu.be/HzVqpO6WIYc
