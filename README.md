@@ -13,6 +13,7 @@ The Computer Science program has really opened my eyes as to what goes into the 
 There are so many moving parts and specific details that go into the design and development that I 
 had never given any thought to until this program. While the program did feel overwhelming at times, 
 I have come away with a better core understanding of the principles and building blocks of Computer Science.
+
 There are still several areas where I need training, practice, and experience, but the following artifacts showcase my strengths 
 and interests in this field of study. I have included several artifacts from course work throughout the program that showcase 
 key areas. While the required artifacts feature software design and engineering, algorithms and data structure, and databases, 
@@ -23,6 +24,7 @@ how every program and almost every element needs to have some type of secure str
 future and the evolution of technology that security will have to become more advance and involved to protect these networks. 
 I may have a mindset for this field as my thought process has always been comprised of being aware of my surroundings and if 
 there are any imminent dangers due to my current profession. 
+
 The following artifacts showcase what I believe are some of the stronger areas throughout my studies. The first enhancement 
 is from my Object-Oriented Analysis and Design course and features several flowcharts about the application design and was 
 something I was interested in. The second enhancement consists of a weather station application using a Raspberry Pi. I enjoyed 
